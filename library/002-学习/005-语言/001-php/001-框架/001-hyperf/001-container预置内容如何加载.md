@@ -17,7 +17,7 @@ Container对象构造时候将传入DefinitionSource对象对象作为属性defi
 
 #### get方法的实现  get($name)
 1. 从resolvedEntries属性中获取是否有对应的项目，有则返回
-2. 如果还没解析过，调取$this->mark($name)方法并返回
+2. 如果还没解析过，调取$this->make($name)方法并返回
 
 #### make方法的实现
 > make的作用是解析一下该容器，类似get，但是每次都会重新解析
