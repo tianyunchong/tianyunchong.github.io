@@ -27,5 +27,7 @@
         - **框架**
             - **hyperf**
                 - [container预置内容如何加载](?file=002-学习/005-语言/001-php/001-框架/001-hyperf/001-container预置内容如何加载 "container预置内容如何加载")
+                - [hyperf启动加载](?file=002-学习/005-语言/001-php/001-框架/001-hyperf/002-hyperf启动加载 "hyperf启动加载")
+                - [ObjectDefinition实现](?file=002-学习/005-语言/001-php/001-框架/001-hyperf/003-ObjectDefinition实现 "ObjectDefinition实现")
 
 ##### Persional
