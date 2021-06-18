@@ -13,7 +13,11 @@
     - **测试工具**
         - [wrk](?file=002-学习/002-工具/001-测试工具/001-wrk "wrk")
     - **开发工具**
-        - [mac-vim](?file=002-学习/002-工具/002-开发工具/001-mac-vim "mac-vim")
+        - **vim**
+            - [mac-vim](?file=002-学习/002-工具/002-开发工具/001-vim/001-mac-vim "mac-vim")
+            - [vim-Bundle](?file=002-学习/002-工具/002-开发工具/001-vim/002-vim-Bundle "vim-Bundle")
+            - **vim常用插件**
+                - [LeaderF](?file=002-学习/002-工具/002-开发工具/001-vim/003-vim常用插件/001-LeaderF "LeaderF")
 - **开源项目研究**
 - **数据结构和算法**
     - **概念**
@@ -35,5 +39,7 @@
         - **composer项目**
             - **betterReflection**
                 - [反射类使用](?file=002-学习/005-语言/001-php/002-composer项目/001-betterReflection/001-反射类使用 "反射类使用")
+        - **php本身的一些功能**
+            - [图片拼接等比例锁房](?file=002-学习/005-语言/001-php/003-php本身的一些功能/001-图片拼接等比例锁房 "图片拼接等比例锁房")
 
 ##### Persional
